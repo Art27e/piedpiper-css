@@ -275,9 +275,8 @@ body {
 .card {
   text-align: center;
   display: inline-block;
-  width: 30%;
+  width: 32%;
   text-align: center;
-  width: 30%;
 }
 
 .author-name {
@@ -385,7 +384,7 @@ body {
     border-radius: 50%;
  }
   .author-name {
-    font-size: 12px;
+    font-size: 18px;
  }
   .role {
     font-size: 12px;
